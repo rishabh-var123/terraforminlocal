@@ -1,3 +1,3 @@
 output "hello2" {
-  value = "hello2"
+  value = "My name is ${var.user}"
 }
